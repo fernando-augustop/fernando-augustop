@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-Construindo soluções que resolvem problemas reais. Estudante de Engenharia da Computação de dia, desenvolvedor full-stack por paixão.
+Construindo soluções que resolvem problemas reais. Estudante de Engenharia da Computação de dia, desenvolvedor full-stack.
 
 ## Projetos Atuais
 
