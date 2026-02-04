@@ -39,13 +39,3 @@ Construindo soluções que resolvem problemas reais. Estudante de Engenharia da 
 ### Filosofia
 
 > "Código é como humor. Quando você precisa explicar, é porque não ficou bom." – Acredito em escrever código limpo e autodocumentado que resolve problemas reais.
-
-<details>
-<summary>Fatos Aleatórios</summary>
-
-- 🇧🇷 Morando no Brasil
-- ☕ Movido a café
-- 🎮 Gamer nas horas vagas
-- 🌱 Sempre aprendendo algo novo
-
-</details>
