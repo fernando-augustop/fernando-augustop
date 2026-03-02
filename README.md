@@ -13,10 +13,6 @@
 
 Construindo soluções que resolvem problemas reais. Estudante de Engenharia da Computação de dia, desenvolvedor full-stack.
 
-## Projetos Atuais
-
-- 📹 **[Video Downloader](https://github.com/fernando-augustop/video-downloader)** - Ferramenta para download de vídeos construída com TypeScript e Python
-
 ## Atividade no GitHub
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/fernando-augustop)
