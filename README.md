@@ -27,7 +27,7 @@ Construindo soluções que resolvem problemas reais. Estudante de Engenharia da 
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/-Seguir-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fernando-augustop)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-augusto-hortencio-0x2301)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-hortencio)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fernando.hor.ren@gmail.com)
 
 ---
